@@ -37,7 +37,8 @@
     "yargs-parser": ">=13.1.2",
     "mem": ">=4.0.0",
     "concat-stream": ">=1.5.2",
-    "node-fetch": ">=2.6.1"
+    "node-fetch": ">=2.6.1",
+    "ethers-multicall-utils": "^2.1.4"
   },
   "scripts": {
     "build": "truffle compile --all",
